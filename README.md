@@ -61,6 +61,8 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 - Write your own `createActor` constructor
 
 
+- rust入門
+https://smacon.dev/posts/hello-icp-rust/
 ```
 dfx canister call rust_hello_backend greet kinggnu
 ```
